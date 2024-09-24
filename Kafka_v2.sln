@@ -4,7 +4,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kafka.Consumer", "Kafka.Con
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kafka.Producer", "Kafka.Producer\Kafka.Producer.csproj", "{A1D71D49-5F06-4445-A5A6-C6FAF898072D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kafka.Infrastucture", "Kafka.Infrastucture\Kafka.Infrastucture.csproj", "{B011879C-DBCE-4C8D-B30D-C63DC9F6C9FC}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kafka.Infrastructure", "Kafka.Infrastructure\Kafka.Infrastructure.csproj", "{B011879C-DBCE-4C8D-B30D-C63DC9F6C9FC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

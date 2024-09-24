@@ -8,7 +8,7 @@
     </PropertyGroup>
 
     <ItemGroup>
-      <ProjectReference Include="..\Kafka.Infrastucture\Kafka.Infrastucture.csproj" />
+      <ProjectReference Include="..\Kafka.Infrastructure\Kafka.Infrastructure.csproj" />
     </ItemGroup>
 
 </Project>
